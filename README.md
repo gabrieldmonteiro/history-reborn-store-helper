@@ -15,3 +15,9 @@ This project is licensed under the **GNU Affero General Public License v3 (AGPLv
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions.
 
+
+---
+
+Screenshots:
+
+![Screenshot of the tool](screenshots/app.png)
