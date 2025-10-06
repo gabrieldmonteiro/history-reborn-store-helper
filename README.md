@@ -1,4 +1,4 @@
-# HRStoreHelper (History Reborn Story Helper)
+# HRStoreHelper (History Reborn Store Helper)
 
 This project is a tool for analyzing data from [History Reborn](https://historyreborn.net/) market using scraping techniques. The goal is to share insights and allow the community to contribute improvements while keeping the software open.
 
@@ -14,3 +14,4 @@ This project is licensed under the **GNU Affero General Public License v3 (AGPLv
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions.
+
