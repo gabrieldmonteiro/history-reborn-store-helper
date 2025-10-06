@@ -1,5 +1,9 @@
 # HRStoreHelper (History Reborn Store Helper)
 
+[Download HRStoreHelper - version 1.0](https://github.com/gabrieldmonteiro/history-reborn-store-helper/releases/download/v1.0/HRStoreHelper_v1.0.zip)
+
+---
+
 This project is a tool for analyzing data from [History Reborn](https://historyreborn.net/) market using scraping techniques. The goal is to share insights and allow the community to contribute improvements while keeping the software open.
 
 ## License
@@ -21,3 +25,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions.
 Screenshots:
 
 ![Screenshot of the tool](screenshots/app.png)
+
